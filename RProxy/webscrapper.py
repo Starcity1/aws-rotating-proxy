@@ -51,7 +51,7 @@ class WikiWebScraper:
 # MAIN FUNCTION WORKS FOR TESTING PURPOSES ONLY
 def main() -> None:
     scraper = WikiWebScraper(URL, True)
-    for _ in range(100):
+    for _ in range(4):
         scraper.get_http()
 
 
