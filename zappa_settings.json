@@ -1,0 +1,26 @@
+{
+    "proxy_us_east_1_1": {
+        "app_function": "proxy.app",
+        "aws_region": "us-east-1",
+        "project_name": "proxy",
+        "runtime": "python3.11"
+    },
+    "proxy_us_east_1_2": {
+        "app_function": "proxy.app",
+        "aws_region": "us-east-1",
+        "project_name": "proxy",
+        "runtime": "python3.11"
+    },
+    "proxy_us_west_1_1": {
+        "app_function": "proxy.app",
+        "aws_region": "us-west-1",
+        "project_name": "proxy",
+        "runtime": "python3.11"
+    },
+    "proxy_us_west_1_2": {
+        "app_function": "proxy.app",
+        "aws_region": "us-west-1",
+        "project_name": "proxy",
+        "runtime": "python3.11"
+    }
+}
